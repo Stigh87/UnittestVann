@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\bin\Debug\net5.0\Vann Unit test.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\bin\Debug\net5.0\Vann Unit test.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\bin\Debug\net5.0\Vann Unit test.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\bin\Debug\net5.0\Vann Unit test.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\bin\Debug\net5.0\Vann Unit test.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\bin\Debug\net5.0\ref\Vann Unit test.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\bin\Debug\net5.0\Vann Unit test.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\obj\Debug\net5.0\Vann Unit test.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\obj\Debug\net5.0\Vann Unit test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\obj\Debug\net5.0\Vann Unit test.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\obj\Debug\net5.0\Vann Unit test.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\obj\Debug\net5.0\Vann Unit test.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\obj\Debug\net5.0\Vann Unit test.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\obj\Debug\net5.0\ref\Vann Unit test.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\obj\Debug\net5.0\Vann Unit test.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Unit test\Vann Unit test\Vann Unit test\obj\Debug\net5.0\Vann Unit test.genruntimeconfig.cache

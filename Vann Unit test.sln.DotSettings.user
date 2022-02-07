@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bda916b4_002D5767_002D4f8e_002D987b_002Ddd6324ac998d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WaterStateControllerTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::60B518A7-D3CC-4624-ADDC-901C2C36827D::net5.0::Test_Prosjekt.WaterStateControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::60B518A7-D3CC-4624-ADDC-901C2C36827D::net5.0::Test_Prosjekt.Tests.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
